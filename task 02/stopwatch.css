@@ -1,0 +1,33 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.stopwatch {
+  text-align: center;
+}
+
+.time {
+  font-size: 2em;
+  margin: 10px;
+}
+
+button {
+  font-size: 1em;
+  margin: 5px;
+  padding: 8px;
+  cursor: pointer;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 10px 0;
+}
+
+li {
+  margin: 5px;
+}
